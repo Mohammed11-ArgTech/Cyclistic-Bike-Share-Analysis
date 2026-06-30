@@ -66,7 +66,7 @@ ORDER BY member_casual, total_rides;
 The unified executive dashboard was constructed using Tableau. To provide full transparency and facilitate technical review, the project can be accessed through multiple channels below:
 
 ### 🌐 Access Points
-* 🔗 Live Interactive Version: [Click Here to View on Tableau Public]([https://public.tableau.com/app/profile/mohammed.ismail3566/viz/Cyclistic_Bike_Share_Analysis_17827828307680/CyclisticUserBehaviorDashboard])
+* 🔗 Live Interactive Version: [Click Here to View on Tableau Public][https://public.tableau.com/app/profile/mohammed.ismail3566/viz/Cyclistic_Bike_Share_Analysis_17827828307680/CyclisticUserBehaviorDashboard]
 * 💾 Download Tableau Workbook: [Download the Raw Cyclistic_Analysis.twbx File](visualizations/Cyclistic_Bike_Share_Analysis.twbx) *(Open via Tableau Desktop or Tableau Public)*
 
 ### 📊 Dashboard Preview
