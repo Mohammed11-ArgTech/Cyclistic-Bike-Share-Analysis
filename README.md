@@ -72,6 +72,6 @@ The unified executive dashboard was constructed using Tableau. To provide full t
 ### 📊 Dashboard Preview
 Below is a static preview of the executive dashboard layout:
 
-![Cyclistic Executive Dashboard](visualizations/dashboard_preview.png)
+![Cyclistic Executive Dashboard](visualizations/Dashboard_Preview.png)
 
 ---
