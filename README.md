@@ -59,3 +59,19 @@ ORDER BY member_casual, total_rides;
 🔹 Key Findings from the Data Output:
 - Leisure vs. Utility: Casual riders show a massive preference for longer trips, averaging 29.59 minutes on classic bikes, which is double the duration of annual members (who average 14.04 minutes).
 - The Electric Surge: Annual members exhibit highly consistent, high-frequency usage, logging over 2.41 million rides on electric bikes alone, indicating a strict commuting utility pattern rather than leisure.
+---
+
+## 5. Share Phase (Interactive Dashboard & Raw Workbook)
+
+The unified executive dashboard was constructed using Tableau. To provide full transparency and facilitate technical review, the project can be accessed through multiple channels below:
+
+### 🌐 Access Points
+* 🔗 Live Interactive Version: [Click Here to View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+* 💾 Download Tableau Workbook: [Download the Raw Cyclistic_Analysis.twbx File](visualizations/WRITE_YOUR_EXACT_TWBX_FILE_NAME_HERE.twbx) *(Open via Tableau Desktop or Tableau Public)*
+
+### 📊 Dashboard Preview
+Below is a static preview of the executive dashboard layout:
+
+![Cyclistic Executive Dashboard](visualizations/dashboard_preview.png)
+
+---
